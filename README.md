@@ -7,4 +7,3 @@ This is an Remote update
 This is a local update.
 =======
 This is an Remote update 2
->>>>>>> 291aa6533fbc2cfe80807bf8a22b42d2be6031bc
